@@ -1,0 +1,7 @@
+{
+  "name": "Smart Agri & Produce Quality Inspector",
+  "description": "Offline-first visual agricultural assistant for pre-harvest plant disease detection, soil NPK health checks, and post-harvest produce ripeness & spoilage grading.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
